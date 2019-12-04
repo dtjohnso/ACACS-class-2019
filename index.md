@@ -17,3 +17,5 @@ date: 2019-12-05
 ## How Paul uses Malachi 1 in Romans 9:13
 
 ## Paul's theological use
+
+<script src="reftagger.min.js"/>
