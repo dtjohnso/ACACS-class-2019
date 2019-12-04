@@ -52,6 +52,9 @@ The Greek text of Romans 9:13 includes two minor variants that are worth mention
 
 <!-- Heb of Mal 1:2-3... -->
 
+The Greek text from the Septuagint faithfully renders the underlying Hebrew, which reads as follows:
+
+![]({{"/img-heb-Mal1.2-3.png" | relative_url}})
 
 
 ## 5. How Paul uses Malachi 1 in Romans 9:13
