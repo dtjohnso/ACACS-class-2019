@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Paul's use of Malachi 1:2--3 in Romans 9:13
 author: Duncan Johnson
 date: 2019-12-05
