@@ -22,4 +22,4 @@ Galatians 1
 
 Matt. 1:23
 
-<script src="reftagger.min.js"/>
+<script src="{{ "/reftagger.min.js" | relative_url }}"/>
