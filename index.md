@@ -5,7 +5,7 @@ author: Duncan Johnson
 date: 2019-12-05
 ---
 
->  "I have loved you," says the LORD. But you say, "How have you loved us?" "Is not Esau Jacob's brother?" declares the LORD. "Yet I have loved Jacob ^3^ but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert." (<span>Mal. 1:2-3</span> ESV)
+>  "I have loved you," says the LORD. But you say, "How have you loved us?" "Is not Esau Jacob's brother?" declares the LORD. "Yet I have loved Jacob but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert." (<span>Mal. 1:2-3</span> ESV)
 
 >  As it is written, "Jacob I loved, but Esau I hated." (<span>Rom. 9:13</span> ESV)
 
