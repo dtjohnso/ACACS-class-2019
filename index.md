@@ -46,6 +46,8 @@ The Greek text from the Septuagint faithfully renders the underlying Hebrew, whi
 
 ![]({{"/img-heb-Mal1.2-3.png" | relative_url}})
 
+Perhaps some distinction could be made based on verb aspect between the Qal waw-consecutive imperfect *wa'ohav* (*yictol* form) referring to Jacob and the Qal perfect *sanethi* (*qatalti* form) referring to Esau. Yet none of the English translations do so.
+
 The Greek text of Romans 9:13 includes two minor variants that are worth mentioning and two that are not worth mentioning:
 
 1. **καθως** "just as": 
