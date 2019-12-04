@@ -44,7 +44,7 @@ The Greek text of Romans 9:13 includes two minor variants:
 1. **καθως** "just as": 
 	All texts read καθως, except for Westcott-Hort and Vaticanus who read the synonym καθαπερ. This term occurs in Paul's introductory formula, not the quotation.
 2. **εμισησα** "hated":
-	Alexandrinus, Vaticanus, and Boernerianus read εμεισησα. The most significant witness to the reading with epsilon is P46. This apparent misspelling is otherwise rare, and so only the Tyndale House GNT preserves this reading in its primary text. NA28, UBS, and SBLGNT relegate the misspelling to the apparatus. Whichever spelling is accepted, the form remains aorist active first person singular from μισέω "hate."
+	Alexandrinus, Vaticanus, and Boernerianus read εμεισησα. The most significant witness to the reading with epsilon-iota dipthong is P46. This apparent misspelling is otherwise rare, and so only the Tyndale House GNT preserves this reading in its primary text. NA28 and UBS relegate the misspelling to the apparatus. SBLGNT does not mention the variant in its apparatus. Whichever spelling is accepted, the form remains aorist active first person singular from μισέω "hate."
 
 
 <!-- Greek of Mal. 1:2-3 ...  -->
