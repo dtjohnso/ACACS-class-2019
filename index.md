@@ -39,12 +39,13 @@ Paul's quotation varies the word order slightly from the text passed down to us 
    <!--2a ἠγάπησα ὑμᾶς λέγει κύριος καὶ εἴπατε ἐν τίνι ἠγάπησας ἡμᾶς οὐκ ἀδελφὸς ἦν Ησαυ τοῦ Ιακωβ λέγει κύριος  -->
 <!-- 3b καὶ ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν καὶ τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου  -->
 
-The Greek text of Romans 9:13 includes two minor variants:
+The Greek text of Romans 9:13 includes two minor variants that are worth mentioning and two that are not worth mentioning:
 
 1. **καθως** "just as": 
 	All texts read καθως, except for Westcott-Hort and Vaticanus who read the synonym καθαπερ. This term occurs in Paul's introductory formula, not the quotation.
 2. **εμισησα** "hated":
 	Alexandrinus, Vaticanus, and Boernerianus read εμεισησα. The most significant witness to the reading with epsilon-iota dipthong is P46. This apparent misspelling is otherwise rare, and so only the Tyndale House GNT preserves this reading in its primary text. NA28, UBS, and SBLGNT do not mention the variant in their apparatuses. Whichever spelling is accepted, the form remains aorist active first person singular from μισέω "hate."
+3. According to the CNTTS apparatus, several spellings of the proper nouns for Jacob and Esau occur.
 
 
 <!-- Greek of Mal. 1:2-3 ...  -->
