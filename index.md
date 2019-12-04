@@ -18,4 +18,8 @@ date: 2019-12-05
 
 ## Paul's theological use
 
+Galatians 1
+
+Matt. 1:23
+
 <script src="reftagger.min.js"/>
