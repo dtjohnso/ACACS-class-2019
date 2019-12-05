@@ -26,7 +26,7 @@ date: 2019-12-05
 	- This sounds attractive, but seems forced. 
 		- There are few structural indications of an inclusio. Romans 9:27--29 fits more closely with Rom. 9:24--26.
 		- The supposed laments lack a direct appeal to God, and are not in the form of a prayer. Indeed, the text seems to be addressed directly to Paul's audience along the lines of diatribe.
-	- As diatribe, 9:1--5 introduces the problem, verses 6--13 introduce a principle that helps to address the problem, and verses 14--23 respond to a logical objection introduced by that principle.^[moo]
+	- As diatribe, 9:1--5 introduces the problem, verses 6--13 introduce a principle that helps to address the problem, and verses 14--23 respond to a logical objection introduced by that principle.[^moo]
 	- Romans 9:13 supports the principle articulated in 9:6, 8.
 
 ## 2. Context of Malachi 1:2--3
@@ -35,7 +35,7 @@ date: 2019-12-05
 
 * Malachi was highly regarded by early Christians and Jews for its conclusive message. Tertullian saw it as the link between Judaism and Christianity, while ancient Jews called it "the seal of the Prophets" and "the last among them."[^verhoef]
 * Consists of messages delivered by a postexilic Palestinian prophet, though some question as to the exact identity of the author of the text. No reason to believe the original speaker was not named Malachi, though someone else may have written down his oracles.[^stuart]
-* Structure: "Malachi is comprised of a superscription and six prophetic disputation speeches, the last of which may also contain a summary challenge related to the message of the book as a whole." (Stuart^[stuart])
+* Structure: "Malachi is comprised of a superscription and six prophetic disputation speeches, the last of which may also contain a summary challenge related to the message of the book as a whole." (Stuart[^stuart])
 
 ### Immediate context
 
