@@ -35,7 +35,7 @@ date: 2019-12-05
 * Structure: "Malachi is comprised of a superscription and six prophetic disputation speeches, the last of which may also contain a summary challenge related to the message of the book as a whole." (Stuart[^stuart])
 * The main themes (keep the Law and prepare for the Day of the Lord) are visible in the concluding summary:
 	>  "Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel. 5 "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. 6 And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction." (<span>Mal. 4:4-6</span> ESV)
-* In keeping with the emphasis on the Law, Malachi includes many passages pronouncing curses which reflect the Torah cursings.[^stuart, 1259--60.]
+* In keeping with the emphasis on the Law, Malachi includes many passages pronouncing curses which reflect the Torah cursings.[^stuart]
 
 ### Immediate context
 
@@ -43,11 +43,22 @@ date: 2019-12-05
 	>  “I have loved you,” says the LORD. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the LORD. “Yet I have loved Jacob 3 but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.” 4 If Edom says, “We are shattered but we will rebuild the ruins,” the LORD of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the LORD is angry forever.’ ” 5 Your own eyes shall see this, and you shall say, “Great is the LORD beyond the border of Israel!” (<span>Malachi 1:2–5</span> ESV)
 * Summary from Stuart:[^stuart]
 	> "An oracle against Edom, showing God's covenant love and power and his distinction between the good (seen in his faithfulness to his covenant love for Israel) and the wicked (seen in his international power via his judgment on one of Israel's key enemies, Edom)." (p. 1249)
+* Based on occurrences in other prophetic texts, it is possible to read Edom "as a synecdoche for Israel's enemies in general."[^stuart]
 
+### Love/hate
+
+* God's love for Israel relates to election (Deut. 7:6--8) and redemption (Deut. 4:34, 37; 7:8; 33:2--3; Hos. 11:1).[^verhoef]
+* God's hatred for Esau is contrary to normal social convention.[^verhoef]
+* God's feelings toward both are not a function of their moral standing. He is completely sovereign both in his loving and his hating.[^verhoef]
+* We should not equate God's love and hate with human psychology.[^verhoef]
+* Verhoef:
+	> "The message of Malachi in this connection is in accordance with the testimony of Isa. 34--35 and 63:1--6, and of Ezek. 35--36. In Isa. 34--35 the prophecy of Israel's restoration as a nation is connected with the eschatological depiction of Edom's destruction. God's vengeance on Edom and his deliverance of Israel are interrelated on his 'day,' according to Isa. 63:1--6. The same vision on the relationship between Israel's restoration and Edom's destruction is found in Ezek. 35--36."[^verhoef]
+* Stuart notes that this text is not to give "words of assurance to a psychologically insecure Israel who needs to know that God still cares," and that neither should we personalize the application of this text. God's care is taught elsewhere.[^stuart]
+* Further, the language of "love" and "hate" was used by kings in speaking of foreign alliances with no reference to personal feelings.[^stuart]
 
 ## 3. Early Jewish exegesis of Malachi 1
 
-<!-- Anything here? See commentaries, otherwise note there is nothing interesting and move on -->
+I'm sure this step would yield fruitful insights, yet I remain unacquainted with these sources. Unless the commentaries direct me in useful directions here, this is beyond the scope of what I know.
 
 ## 4. Textual factors
 
@@ -57,6 +68,8 @@ Paul's quotation varies the word order slightly from the text passed down to us 
 
 	Rom. 9:13  καθὼς γέγραπται·     τὸν Ἰακὼβ ἠγάπησα, τὸν δὲ Ἠσαῦ ἐμίσησα. 
 	Mal. 1:2-3                  καὶ ἠγάπησα τὸν Ιακωβ  τὸν δὲ Ησαυ ἐμίσησα
+
+Apparently, Paul fronts the noun "Jacob" for emphasis, whereas the Septuagint reproduces the chiastic order of the Hebrew text. This could be seen as Paul emphasizing Jacob's role, while Malachi is more interested in the comparison/contrast of the pair.
 
 <!-- ^BGT^ **Mal. 1:2-3** -->
    <!--2a ἠγάπησα ὑμᾶς λέγει κύριος καὶ εἴπατε ἐν τίνι ἠγάπησας ἡμᾶς οὐκ ἀδελφὸς ἦν Ησαυ τοῦ Ιακωβ λέγει κύριος  -->
@@ -77,6 +90,9 @@ The Greek text of Romans 9:13 includes two minor variants that are worth mention
 3. According to the CNTTS apparatus, several spellings of the proper nouns for Jacob and Esau occur.
 
 ## 5. How Paul uses Malachi 1 in Romans 9:13
+
+> Seifrid: "The prophetic announcement “Jacob I loved, but Esau I hated” is intended to open Israel’s eyes. Paul’s appeal to the text implies that the pattern has been repeated in his day. God in freedom has set his love on some within Israel, but not on others."[^seifrid]
+
 
 ## 6. Paul's theological use
 
