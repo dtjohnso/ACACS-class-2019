@@ -35,12 +35,15 @@ date: 2019-12-05
 * Structure: "Malachi is comprised of a superscription and six prophetic disputation speeches, the last of which may also contain a summary challenge related to the message of the book as a whole." (Stuart[^stuart])
 * The main themes (keep the Law and prepare for the Day of the Lord) are visible in the concluding summary:
 	>  "Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel. 5 "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. 6 And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction." (<span>Mal. 4:4-6</span> ESV)
+* In keeping with the emphasis on the Law, Malachi includes many passages pronouncing curses which reflect the Torah cursings.[^stuart, 1259--60.]
 
 ### Immediate context
 
 * Occurs in the first speech: Mal. 1:2--5
 	>  “I have loved you,” says the LORD. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the LORD. “Yet I have loved Jacob 3 but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.” 4 If Edom says, “We are shattered but we will rebuild the ruins,” the LORD of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the LORD is angry forever.’ ” 5 Your own eyes shall see this, and you shall say, “Great is the LORD beyond the border of Israel!” (<span>Malachi 1:2–5</span> ESV)
-* 
+* Summary from Stuart:[^stuart]
+	> "An oracle against Edom, showing God's covenant love and power and his distinction between the good (seen in his faithfulness to his covenant love for Israel) and the wicked (seen in his international power via his judgment on one of Israel's key enemies, Edom)." (p. 1249)
+
 
 ## 3. Early Jewish exegesis of Malachi 1
 
