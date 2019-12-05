@@ -20,7 +20,9 @@ date: 2019-12-05
 * Broader context of Romans (see outline from Moo[^moo])
 * Genre and structure of Romans 9
 	- Seifrid sees Romans 9 as diatribe encapsulated by lament:
+	
 		> Paul’s opening lament provides the conceptual framework for the entire discourse, including the closing hymn of praise, which, according to the pattern of the psalms of lament, reaffirms the hope of the promises, contrary to all outward appearances (e.g., Pss. 10; 13; 22; 60; 102). The first section of Paul’s discourse (9:1–29) here is oriented around lament, which appears at the opening and closing (9:1–5, 27–29). Paul’s intervening instruction, which takes the form of diatribe, is essential to that lament, which otherwise would degenerate into unbelieving despair or a simplistic blaming of Israel.[^seifrid]
+
 	- This sounds attractive, but seems forced. 
 		- There are few structural indications of an inclusio. Romans 9:27--29 fits more closely with Rom. 9:24--26.
 		- The supposed laments lack a direct appeal to God, and are not in the form of a prayer. Indeed, the text seems to be addressed directly to Paul's audience along the lines of diatribe.
@@ -35,15 +37,21 @@ date: 2019-12-05
 * Consists of messages delivered by a postexilic Palestinian prophet, though some question as to the exact identity of the author of the text. No reason to believe the original speaker was not named Malachi, though someone else may have written down his oracles.[^stuart]
 * Structure: "Malachi is comprised of a superscription and six prophetic disputation speeches, the last of which may also contain a summary challenge related to the message of the book as a whole." (Stuart[^stuart])
 * The main themes (keep the Law and prepare for the Day of the Lord) are visible in the concluding summary:
+
 	>  "Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel. 5 "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. 6 And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction." (<span>Mal. 4:4-6</span> ESV)
+
 * In keeping with the emphasis on the Law, Malachi includes many passages pronouncing curses which reflect the Torah cursings.[^stuart]
 
 ### Immediate context
 
 * Occurs in the first speech: Mal. 1:2--5
+
 	>  “I have loved you,” says the LORD. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the LORD. “Yet I have loved Jacob 3 but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.” 4 If Edom says, “We are shattered but we will rebuild the ruins,” the LORD of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the LORD is angry forever.’ ” 5 Your own eyes shall see this, and you shall say, “Great is the LORD beyond the border of Israel!” (<span>Malachi 1:2–5</span> ESV)
+
 * Summary from Stuart:[^stuart]
+
 	> "An oracle against Edom, showing God's covenant love and power and his distinction between the good (seen in his faithfulness to his covenant love for Israel) and the wicked (seen in his international power via his judgment on one of Israel's key enemies, Edom)." (p. 1249)
+
 * Based on occurrences in other prophetic texts, it is possible to read Edom "as a synecdoche for Israel's enemies in general."[^stuart]
 
 ### Love/hate
@@ -53,7 +61,9 @@ date: 2019-12-05
 * God's feelings toward both are not a function of their moral standing. He is completely sovereign both in his loving and his hating.[^verhoef]
 * We should not equate God's love and hate with human psychology.[^verhoef]
 * Verhoef:
+
 	> "The message of Malachi in this connection is in accordance with the testimony of Isa. 34--35 and 63:1--6, and of Ezek. 35--36. In Isa. 34--35 the prophecy of Israel's restoration as a nation is connected with the eschatological depiction of Edom's destruction. God's vengeance on Edom and his deliverance of Israel are interrelated on his 'day,' according to Isa. 63:1--6. The same vision on the relationship between Israel's restoration and Edom's destruction is found in Ezek. 35--36."[^verhoef]
+
 * Stuart notes that this text is not to give "words of assurance to a psychologically insecure Israel who needs to know that God still cares," and that neither should we personalize the application of this text. God's care is taught elsewhere.[^stuart]
 * Further, the language of "love" and "hate" was used by kings in speaking of foreign alliances with no reference to personal feelings.[^stuart]
 
