@@ -11,11 +11,13 @@ date: 2019-12-05
 
 ## 1. Context of Romans 9:13
 
-<!-- 
-* Romans 9--11 in context of Romans
-* Romans 9 in relation to chapters 10 and 11
+* Broader context of Romans (see outline from Moo)
 * Romans 9:13 in flow of argument
- -->
+	- Seifrid sees Romans 9 as diatribe encapsulated by lament:
+		> Paul’s opening lament provides the conceptual framework for the entire discourse, including the closing hymn of praise, which, according to the pattern of the psalms of lament, reaffirms the hope of the promises, contrary to all outward appearances (e.g., Pss. 10; 13; 22; 60; 102). The first section of Paul’s discourse (9:1–29) here is oriented around lament, which appears at the opening and closing (9:1–5, 27–29). Paul’s intervening instruction, which takes the form of diatribe, is essential to that lament, which otherwise would degenerate into unbelieving despair or a simplistic blaming of Israel.[^seifrid-lament]
+
+[^seifrid-lament]: Mark A. Seifrid, “Romans,” in *Commentary on the New Testament Use of the Old Testament* (Grand Rapids, MI;  Nottingham, UK: Baker Academic;  Apollos, 2007), 638.
+
 
 ## 2. Context of Malachi 1:2--3
 
